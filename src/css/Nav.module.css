@@ -1,0 +1,8 @@
+.nav{
+    width: 20%;
+    height: 400px;
+    background-color:blue;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+}
